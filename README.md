@@ -1,7 +1,7 @@
 # Computer-systems
 Collection of problem sets from the course
 
-## PSet 1
+### PSet 1
 Introduction to C. Simple printing and input
 
 ## PSet 2
